@@ -1,4 +1,4 @@
-# exercicos_python_brasil
+# Exercícios Python
 
  - Este repositório contém exercicios realizados do site [PythonBrasil](https://wiki.python.org.br/ListaDeExercicios)
 
